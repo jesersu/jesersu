@@ -1,5 +1,5 @@
 # 💫 About Me:
-Soy desarrollador iOS con 4 años de experiencia y 2 años en desarrollo en Android, he trabajado para varias empresas nacionales e internaciones.<br>Me gusta mucho el desarrollo nativo,   aunque tambien hice aplicaciones usando Flutter y React Native, por eso prefiero el desarrollo nativo xD
+Soy desarrollador iOS con 5 años de experiencia y 2 años en desarrollo en Android, he trabajado para varias empresas nacionales e internaciones.<br>Me gusta mucho el desarrollo nativo,   aunque tambien hice aplicaciones usando Flutter y React Native, por eso prefiero el desarrollo nativo xD
 
 
 ## 🌐 Socials:
