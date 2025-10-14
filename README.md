@@ -1,5 +1,5 @@
 # 💫 About Me:
-Soy desarrollador java y iOS con 7 años de experiencia, he trabajado para varias empresas nacionales e internaciones.<br>Me gusta mucho el desarrollo nativo,   aunque tambien hice aplicaciones usando Flutter y React Native, por eso prefiero el desarrollo nativo xD
+Hi, my name is Jesús. I’m a software engineer and iOS developer with over 5 years of experience building mobile apps and backend services. My main expertise is in Swift, where I’ve developed and maintained scalable iOS applications for companies like Telefónica, WOM Chile, and Shell México. I also have solid experience working with Python for backend APIs and automation, and I’m familiar with JavaScript and microservice architectures using SQL and PostgreSQL. I’m passionate about clean architecture, testing, and agile development, and I’m excited about contributing to a team that values quality, performance, and innovation.
 
 
 ## 🌐 Socials:
