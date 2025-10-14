@@ -1,5 +1,5 @@
 # 💫 About Me:
-Soy desarrollador java y iOS con 6 años de experiencia, he trabajado para varias empresas nacionales e internaciones.<br>Me gusta mucho el desarrollo nativo,   aunque tambien hice aplicaciones usando Flutter y React Native, por eso prefiero el desarrollo nativo xD
+Soy desarrollador java y iOS con 7 años de experiencia, he trabajado para varias empresas nacionales e internaciones.<br>Me gusta mucho el desarrollo nativo,   aunque tambien hice aplicaciones usando Flutter y React Native, por eso prefiero el desarrollo nativo xD
 
 
 ## 🌐 Socials:
